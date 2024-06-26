@@ -1,2 +1,0 @@
-After mongodb installation, run the following commands:
-"C:\Program Files\MongoDB\Server\7.0\bin\mongod.exe" --dbpath="C:\Users\nacho\OneDrive\Desktop\mongodb\data"
